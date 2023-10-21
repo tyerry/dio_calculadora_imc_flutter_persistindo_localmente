@@ -12,4 +12,5 @@
 - Ler dados no app​
 - Calcular IMC ​
 - Gravar dados no Hive ou SQLite​
+    - Nesta etapa utilizei o SQLite
 - Exibir em uma lista​
